@@ -1,0 +1,15 @@
+C:\Users\bobko\Desktop\Итоговое задание по курсу специализации\bin\Debug\net6.0\Итоговое задание по курсу специализации.exe
+C:\Users\bobko\Desktop\Итоговое задание по курсу специализации\bin\Debug\net6.0\Итоговое задание по курсу специализации.deps.json
+C:\Users\bobko\Desktop\Итоговое задание по курсу специализации\bin\Debug\net6.0\Итоговое задание по курсу специализации.runtimeconfig.json
+C:\Users\bobko\Desktop\Итоговое задание по курсу специализации\bin\Debug\net6.0\Итоговое задание по курсу специализации.dll
+C:\Users\bobko\Desktop\Итоговое задание по курсу специализации\bin\Debug\net6.0\Итоговое задание по курсу специализации.pdb
+C:\Users\bobko\Desktop\Итоговое задание по курсу специализации\obj\Debug\net6.0\Итоговое задание по курсу специализации.csproj.AssemblyReference.cache
+C:\Users\bobko\Desktop\Итоговое задание по курсу специализации\obj\Debug\net6.0\Итоговое задание по курсу специализации.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobko\Desktop\Итоговое задание по курсу специализации\obj\Debug\net6.0\Итоговое задание по курсу специализации.AssemblyInfoInputs.cache
+C:\Users\bobko\Desktop\Итоговое задание по курсу специализации\obj\Debug\net6.0\Итоговое задание по курсу специализации.AssemblyInfo.cs
+C:\Users\bobko\Desktop\Итоговое задание по курсу специализации\obj\Debug\net6.0\Итоговое задание по курсу специализации.csproj.CoreCompileInputs.cache
+C:\Users\bobko\Desktop\Итоговое задание по курсу специализации\obj\Debug\net6.0\Итоговое задание по курсу специализации.dll
+C:\Users\bobko\Desktop\Итоговое задание по курсу специализации\obj\Debug\net6.0\refint\Итоговое задание по курсу специализации.dll
+C:\Users\bobko\Desktop\Итоговое задание по курсу специализации\obj\Debug\net6.0\Итоговое задание по курсу специализации.pdb
+C:\Users\bobko\Desktop\Итоговое задание по курсу специализации\obj\Debug\net6.0\Итоговое задание по курсу специализации.genruntimeconfig.cache
+C:\Users\bobko\Desktop\Итоговое задание по курсу специализации\obj\Debug\net6.0\ref\Итоговое задание по курсу специализации.dll
